@@ -1,6 +1,6 @@
 # 💫 Sobre Mim:
 
-Olá👋, meu nome é Gabriel, tenho 20 anos.<br><br>Cursando ADS.
+Olá👋, meu nome é Gabriel, tenho 21 anos.<br><br>Cursando ADS.
 
 No momento não há nada para vê aqui :grinning: 
 
