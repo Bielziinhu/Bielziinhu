@@ -10,6 +10,7 @@ Desenvolvedor Fullstack • Estudante de ADS
 ---
 🧭 Sobre mim
 🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS)
+🕹️ Criador e administrador do Stardix, servidor de Minecraft estilo SkyBlock
 💻 Trabalho principalmente com Java, TypeScript/Next.js e Python
 🎨 Também curto edição de vídeo e design (Premiere, After Effects, Photoshop, Canva)
 🚀 Sempre estudando algo novo, seja em código ou em ferramentas de criação
@@ -55,7 +56,9 @@ Design & Mídia
 <img src="https://github-profile-trophy.vercel.app/?username=Bielziinhu&theme=radical&no-frame=true&row=1&column=6"/>
 </div>
 ---
-
+<div align="center">
+📫 Vamos conversar?
+Me encontre no Discord, acompanhe as lives na Twitch ou siga no Twitter.
 ![](https://visitcount.itsvg.in/api?id=Bielziinhu&icon=9&color=6)
 <sub>⭐ Se curtir o que eu faço, deixa uma estrelinha nos repositórios!</sub>
 </div>
