@@ -142,8 +142,8 @@ Alguns dos projetos em que estou trabalhando não podem ser disponibilizados pub
 
 | Projeto | Status | Descrição |
 |:---|:---:|:---|
-| 🗺️ Sistema de Mapeamento — Back-end + Front-end | 🟢 Ativo | Sistema desenvolvido para organização e gerenciamento de informações de forma integrada. |
-| ⚙️ Sistema de Gestão — Back-end + Front-end | 🔵 Concluído | Sistema desenvolvido para facilitar processos e reduzir tarefas manuais e repetitivas. |
+| 🗺️ Sistema de Mapeamento - Back-end + Front-end | 🟢 Ativo | Sistema de Mapeamento de Processos Administrativos Integrado. |
+| ⚙️ Sistema de Gestão - Back-end + Front-end | 🔵 Concluído | Sistema de Gestão do Projeto e Interatividamente entre Polos com Multi-Tenancy. |
 
 ### 🌐 Projetos públicos
 
@@ -204,9 +204,9 @@ Os projetos públicos mais recentes aparecem automaticamente aqui.
 │                                                              │
 │  ☕ Java                                                     │
 │  🌱 Spring Boot                                              │
-│  ⚡ Next.js                                                   │
+│  ⚡ Next.js                                                  │
 │  🤖 Inteligência Artificial Generativa                       │
-│  ✍️ Engenharia de Prompts                                    │
+│  ✍️ Engenharia de Atividades integradas                      │
 │  🧩 Arquitetura e desenvolvimento de sistemas                │
 │                                                              │
 └──────────────────────────────────────────────────────────────┘
